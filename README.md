@@ -19,5 +19,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="50" height"50"/>
-  <img src="https://github.com/elysiajs" width="50" height"50" alt="ElysiaJS"/>
+  <img src="[https://github.com/elysiajs](https://avatars.githubusercontent.com/u/119793569?s=200&v=4)" width="50" height"50" alt="ElysiaJS"/>
 </p>
