@@ -1,5 +1,4 @@
 ## Hi there 👋
-## Below is something I know
 ## 🚀 Tech Stack  
 
 ### 🧠 Languages  
@@ -32,6 +31,8 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
 </p>
+
+---
 
 ### 🛠️ Build Tools & Package Managers  
 <p align="center">
